@@ -6,6 +6,12 @@ body {
     margin: 0;
 }
 
+.cointainer{
+    margin: 1rem;
+    text-align: center;
+}
+
+
 .nav {
     background-color: #333;
     color: white;
